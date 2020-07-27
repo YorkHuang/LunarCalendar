@@ -1,0 +1,6 @@
+framework module Pods_LunarCalendar {
+  umbrella header "Pods-LunarCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}
